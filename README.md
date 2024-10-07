@@ -20,8 +20,8 @@ Before proceeding, ensure the following software is installed:
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/<yourusername>/cs511p1.git
-   cd cs511p1
+   git https://github.com/realavocado/Computing-PageRank-on-Spark-RDD.git
+   cd Computing-PageRank-on-Spark-RDD
    ```
 
 2. **Start the Cluster**:
